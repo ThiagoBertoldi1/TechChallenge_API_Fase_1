@@ -13,7 +13,6 @@ builder.Services.AddSwaggerGen();
 builder.Services.DbContextConfiguration(builder.Configuration);
 builder.Services.AddHandlersMediatR();
 
-
 builder.Services.AddTransient<IContactRepository, ContactRepository>();
 
 var app = builder.Build();
