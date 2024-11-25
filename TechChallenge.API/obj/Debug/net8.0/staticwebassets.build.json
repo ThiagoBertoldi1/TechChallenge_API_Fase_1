@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "y5RoquA66fUJ5dX+cVeITF95A7mg8gB9QLfA4XhtLiY=",
+  "Source": "TechChallenge.API",
+  "BasePath": "_content/TechChallenge.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

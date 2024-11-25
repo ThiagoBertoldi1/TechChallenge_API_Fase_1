@@ -1,0 +1,17 @@
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Data.deps.json
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Data.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Data.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Domain.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Infrastructure.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Domain.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\bin\Debug\net8.0\TechChallenge.Infrastructure.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChal.E4531ECE.Up2Date
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\refint\TechChallenge.Data.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\TechChallenge.Data.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Data\obj\Debug\net8.0\ref\TechChallenge.Data.dll

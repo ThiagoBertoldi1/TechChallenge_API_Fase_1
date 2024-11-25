@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\bin\Debug\net8.0\TechChallenge.Infrastructure.deps.json
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\bin\Debug\net8.0\TechChallenge.Infrastructure.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\bin\Debug\net8.0\TechChallenge.Infrastructure.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\refint\TechChallenge.Infrastructure.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\TechChallenge.Infrastructure.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Infra\obj\Debug\net8.0\ref\TechChallenge.Infrastructure.dll

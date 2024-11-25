@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\bin\Debug\net8.0\TechChallenge.Domain.deps.json
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\bin\Debug\net8.0\TechChallenge.Domain.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\bin\Debug\net8.0\TechChallenge.Domain.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\bin\Debug\net8.0\TechChallenge.Infrastructure.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\bin\Debug\net8.0\TechChallenge.Infrastructure.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChal.132B37C8.Up2Date
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\refint\TechChallenge.Domain.dll
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\TechChallenge.Domain.pdb
+C:\Users\Thiago\Desktop\TechChallenge\TechChallenge.API\TechChallenge.Domain\obj\Debug\net8.0\ref\TechChallenge.Domain.dll
