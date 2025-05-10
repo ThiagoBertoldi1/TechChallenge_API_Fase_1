@@ -98,9 +98,7 @@ public class ContactHandler(
             dataToUpdate.Region = region;
         }
 
-        var updated = await _contactRepository.UpdateAsync(dataToUpdate, cancellationToken);
-        if (!updated)
-            return ResponseBase<string>.Error(HttpStatusCode.InternalServerError, ["Usuário não atualizado"]);
+        await _rabbitMQ.Publish("Contact.Queue.Update", dataToUpdate);
 
         return ResponseBase<string>.Success("Contato atualizado com sucesso");
     }
@@ -111,9 +109,7 @@ public class ContactHandler(
         if (contact is null)
             return ResponseBase<string>.Error(HttpStatusCode.NotFound, ["Contato não encontrado"]);
 
-        var deleted = await _contactRepository.DeleteAsync(request.Id, cancellationToken);
-        if (!deleted)
-            return ResponseBase<string>.Error(HttpStatusCode.InternalServerError, ["Não foi possível deletar o contato"]);
+        await _rabbitMQ.Publish("Contact.Queue.Delete", request.Id);
 
         return ResponseBase<string>.Success("Contato deletado com sucesso");
     }

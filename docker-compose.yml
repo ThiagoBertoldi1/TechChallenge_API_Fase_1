@@ -13,6 +13,18 @@ services:
     networks:
       - app-network
 
+  queue-insert:
+    container_name: queue-insert
+    build:
+      context: .
+      dockerfile: Queue.Insert/Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - app-network
+    depends_on:
+      - rabbitmq
+
   dotnet-api:
     container_name: dotnet-api
     build:

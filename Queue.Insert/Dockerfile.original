@@ -1,0 +1,30 @@
+# Imagem base para runtime
+FROM mcr.microsoft.com/dotnet/runtime:8.0 AS base
+WORKDIR /app
+
+# Imagem para build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+ARG BUILD_CONFIGURATION=Debug
+WORKDIR /src
+
+# Copia apenas o .csproj e restaura dependências
+COPY Queue.Insert.csproj Queue.Insert/
+RUN dotnet restore Queue.Insert/Queue.Insert.csproj
+
+# Copia o restante dos arquivos
+COPY . .
+
+# Define o diretório de trabalho para o projeto
+WORKDIR /src/Queue.Insert
+RUN dotnet build Queue.Insert.csproj -c $BUILD_CONFIGURATION -o /app/build
+
+# Publicação
+FROM build AS publish
+ARG BUILD_CONFIGURATION=Debug
+RUN dotnet publish Queue.Insert.csproj -c $BUILD_CONFIGURATION -o /app/publish /p:UseAppHost=false
+
+# Imagem final de runtime
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "Queue.Insert.dll"]
